@@ -1,0 +1,20 @@
+p {
+    background-color: palevioletred;
+    font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+}
+
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 36px;
+}
+
+#anotherID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
