@@ -15,6 +15,19 @@ body {
   justify-content: center;
 }
 
+.window {
+  display: flex;
+  justify-content: flex-start;
+}
+.leftbox {
+  display: flex;
+  width: 20%;
+}
+.rightbox {
+  display: flex;
+  width: 80%;
+}
+
 .modal {
   background: white;
   width: 480px;
@@ -67,3 +80,5 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+
